@@ -1,0 +1,13 @@
+tipo:CORRIENTE:15000:100.0
+tipo:ACPM:9000:80.0
+tipo:EXTRA:17000:60.0
+tipo:GAS:2000:70.0
+surtidor:Héctor Flórez:CORRIENTE:0.0:ACPM:0.0:EXTRA:0.0:GAS:0.0
+surtidor:Iván Salazar:CORRIENTE:0.0:ACPM:0.0:EXTRA:0.0:GAS:0.0
+surtidor:Héctor Flórez:CORRIENTE:0.0:ACPM:0.0:EXTRA:0.0:GAS:0.0
+surtidor:Mario Sánchez:CORRIENTE:0.0:ACPM:0.0:EXTRA:0.0:GAS:0.0
+empleado:Héctor Flórez:0
+empleado:Iván Salazar:0
+empleado:Mario Sánchez:0
+empleado:Fernando de la Rosa:0
+empleado:John Casallas:0
